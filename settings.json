@@ -1,0 +1,14 @@
+{
+    "name": "AvaxFirstDapp",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "Avax first Token",
+        "/category/asset_value_tracking/core-token/symbol": "AFT",
+        "/category/asset_value_tracking/core-token/decimals": "18",
+        "/category/asset_value_tracking/core-token/supply": "22000000"
+    }
+}
